@@ -12,4 +12,4 @@ RUN 	groupadd -r fuse -g 1000 && \
 
 WORKDIR /opt/fuse
 
-USER fuse
+USER 1000
