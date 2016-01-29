@@ -1,4 +1,4 @@
-FROM mrobson/base-openjdk:7
+FROM mrobson/base-openjdk:8
 
 MAINTAINER Matthew Robson <matthewrobson@gmail.com>
 
